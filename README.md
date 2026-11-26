@@ -1,28 +1,21 @@
-# Mohamed Adel
+![Mohamed Adel — .NET Backend Developer. An HTTP request passes through the API to SQL.](./profile-cover.svg)
 
-**.NET Backend Developer** · Egypt  
-Computer Science at Mansoura University · Expected graduation 2027
-
-I build APIs and web applications with C# and ASP.NET Core. My projects cover product pagination, database access, and role-based permissions. I also contribute to pgexporter, a PostgreSQL monitoring tool.
-
-## Selected backend projects
-
-| Project | Implementation |
-| --- | --- |
-| [ProductsAPI](https://github.com/Mohamedadel-prog/ProductsAPI) | A product catalog API with paginated listings and custom middleware for shared request handling. |
-| [ClubManagementApp](https://github.com/Mohamedadel-prog/ClubManagementApp) | A club management application built with ASP.NET Core MVC. ASP.NET Core Identity handles sign-in and role-based access. |
-| [StudentManagementAPI](https://github.com/Mohamedadel-prog/StudentManagementAPI) | A .NET 9 Web API for managing student records, with Entity Framework Core for data access and Swagger for exploring endpoints. |
-
-## Open source
-
-**pgexporter** exports PostgreSQL metrics for Prometheus. I corrected how the exporter formats the `HELP` and `TYPE` lines that describe each metric and added tests for both the HTTP and bridge endpoints. [View pull request #598](https://github.com/pgexporter/pgexporter/pull/598)
-
-## Technical skills
-
-- **Backend:** C#, ASP.NET Core Web API, MVC
-- **Data:** Entity Framework Core, LINQ, SQL Server, PostgreSQL
-- **Authentication and authorization:** ASP.NET Core Identity, JWT, role-based access control
-
-## Contact
+I build REST APIs with **C# and ASP.NET Core**. I’m studying Computer Science at Mansoura University in Egypt and expect to graduate in 2027.
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-adel08/) · [Email](mailto:mmomoadel@gmail.com) · [WhatsApp](https://wa.me/201225167636)
+
+## Inside my backend projects
+
+| In the code | Where to explore |
+| --- | --- |
+| **Paginating a product catalog** · Follow a listing request through the ASP.NET Core pipeline and see how results are split into pages. | [ProductsAPI ↗](https://github.com/Mohamedadel-prog/ProductsAPI) |
+| **Managing access by role** · See how an MVC club management app connects account sign-in with permissions through ASP.NET Core Identity. | [ClubManagementApp ↗](https://github.com/Mohamedadel-prog/ClubManagementApp) |
+| **Working with student records** · Explore the .NET 9 endpoints through Swagger and trace how they access data with Entity Framework Core. | [StudentManagementAPI ↗](https://github.com/Mohamedadel-prog/StudentManagementAPI) |
+
+## A contribution to PostgreSQL tooling
+
+**pgexporter** exposes PostgreSQL metrics for Prometheus. Each metric’s `HELP` line describes what it measures, and its `TYPE` line tells Prometheus how to interpret the value. I fixed how pgexporter formats those lines and added tests for its HTTP and bridge endpoints.
+
+[Read the patch and tests in pgexporter #598 →](https://github.com/pgexporter/pgexporter/pull/598)
+
+**My toolkit** · C# · ASP.NET Core · EF Core · LINQ · SQL Server · PostgreSQL · Identity · JWT
