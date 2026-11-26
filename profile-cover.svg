@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="282" viewBox="0 0 1024 282" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Adel | .NET Backend Developer</title>
+  <desc id="desc">A dark engineering notebook cover with a mint green request trace connecting HTTP, API, and SQL.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.2" fill="#365461"/></pattern>
+  </defs>
+  <rect width="1024" height="282" rx="16" fill="#10212c"/>
+  <path d="M622 0h402v282H532z" fill="url(#grid)"/>
+  <g font-family="monospace" fill="#9ee8cc">
+    <text x="48" y="55" font-size="16" letter-spacing="2">~/mohamedadel-prog</text>
+  </g>
+  <text x="44" y="143" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-4" fill="#f3f4eb">Mohamed Adel</text>
+  <text x="49" y="192" font-family="Arial, sans-serif" font-size="29" fill="#c8d9df">.NET Backend Developer</text>
+  <path d="M49 231h59m8 0h14" stroke="#9ee8cc" stroke-width="4"/>
+  <g fill="none" stroke="#89dfbc" stroke-width="3" stroke-linejoin="round">
+    <path d="M638 190h48l45-51h48l44-52h72"/>
+    <circle cx="638" cy="190" r="8" fill="#10212c"/>
+    <rect x="742" y="131" width="16" height="16" rx="3" fill="#10212c"/>
+    <circle cx="895" cy="87" r="8" fill="#89dfbc"/>
+  </g>
+  <g fill="#d3e9e2" font-family="monospace" font-size="20">
+    <text x="615" y="229">HTTP</text><text x="733" y="178">API</text><text x="876" y="65">SQL</text>
+  </g>
+</svg>
