@@ -2,7 +2,13 @@
 
 I build REST APIs with **C# and ASP.NET Core**. I’m studying Computer Science at Mansoura University in Egypt and expect to graduate in 2027.
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-adel08/) · [Email](mailto:mmomoadel@gmail.com) · [WhatsApp](https://wa.me/201225167636)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-adel08/"><img height="40" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:mmomoadel@gmail.com"><img height="40" alt="Email" src="https://img.shields.io/badge/Email-993B2F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="https://wa.me/201225167636"><img height="40" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-08764D?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
+</p>
 
 ## Inside my backend projects
 
